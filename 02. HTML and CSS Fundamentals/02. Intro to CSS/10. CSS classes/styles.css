@@ -1,15 +1,15 @@
-.main {
-    margin-top: 100px;
+.main{
+    margin-top: 200px;
 }
 
 /* Challenge - part 2: 
 Replace the element selectors with class selectors */
-img {
+.googleimage{
     display: block;
-    width: 300px;
+    width: 500px;
 }
 
-input {
+.inputtxt{
     display: block;
-    width: 400px;
+    width: 500px;
 }

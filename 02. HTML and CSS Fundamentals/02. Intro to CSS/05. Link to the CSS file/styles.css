@@ -1,10 +1,8 @@
-body {
-    background: oklch(97.209% 0.00547 184.188 / 0.741);
-    
+
+img{
+    width:300px ;
 }
 
 input{
     width: 400px;
 }
-
- 

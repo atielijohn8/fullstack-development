@@ -1,12 +1,21 @@
+
+
 /*
 Challenge: 
 Turn the elements into blocks!
 */
 
 img {
-    width: 300px;
+    width: 50%;
+    display: block;
+    margin: auto;
+    align-items: center;
+    
 }
 
 input {
-    width: 400px;
+    width: 50%;
+    display: block;
+    margin: auto;
+    align-items: center;
 }
