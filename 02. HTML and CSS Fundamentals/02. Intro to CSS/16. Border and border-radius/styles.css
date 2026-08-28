@@ -9,8 +9,9 @@
     /* Challenge:
     Change the values to match the design
     in the slide */
-    border: 8px solid blue;
-    border-radius: 100px;
+    border: 3px solid black;
+    border-radius:15px;
+
     
     padding-top: 20px;
     padding-right: 20px;

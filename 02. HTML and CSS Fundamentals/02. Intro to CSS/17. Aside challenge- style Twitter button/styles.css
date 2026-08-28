@@ -1,3 +1,17 @@
+.follow{
+    background: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border: solid #313335;
+    border-radius: 18px;
+    width: 100px;
+    color:#3f4246;
+    font-weight: bold;
+
+}
+
 /* 
 Challenge: 
 Make the button look like Twitter's "Following" button!
