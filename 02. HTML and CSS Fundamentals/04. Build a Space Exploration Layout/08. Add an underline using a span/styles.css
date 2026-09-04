@@ -13,6 +13,13 @@ body {
     font-family: 'Orbitron', sans-serif;
 }
 
+.cta{
+    color: blue;
+    border: 1px solid rgb(51, 21, 82);
+    background: rgb(151, 32, 32);
+    padding: 2px;
+}
+
 /* 
 Challenge:
 Add the underline to the title using a <span> and a class.
