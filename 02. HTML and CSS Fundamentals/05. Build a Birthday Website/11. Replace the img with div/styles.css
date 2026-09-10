@@ -38,6 +38,8 @@ h1, h2, h3, h4, p {
 
 .gift-section {
     margin-top: 50px;
+    height: 400px;
+    
 }
 
 .gift-title {
@@ -52,6 +54,11 @@ h1, h2, h3, h4, p {
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    background-image: url(images/gift-cover.jpg);
+    background-size: cover;
+    margin: 0 auto 0 auto;
 }
 
 /*
