@@ -36,6 +36,14 @@ h1, h2, h3, h4, p {
     align-items: center;
 }
 
+.gift-section{
+    margin-top: 10px;
+}
+.gift{
+    border: solid 4px #ffffff;
+    border-radius: 5px;
+    width: 400px;
+}
 /*
 Challenge:
 1. Create a "gift-section" <div> that will wrap
