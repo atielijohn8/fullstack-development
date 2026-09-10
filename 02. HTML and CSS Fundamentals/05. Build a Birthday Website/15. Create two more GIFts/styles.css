@@ -77,3 +77,11 @@ If I had to describe you with ONE word 👇
 The only person as badass as you 💪
 
 */
+
+#gift-genius:hover{
+    background-image: url(images/genius.gif);
+}
+
+#gift-badass{
+    background-image: url(images/badass.gif);
+}
